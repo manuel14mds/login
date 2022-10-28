@@ -13,7 +13,9 @@
             ],
             "program": "${workspaceFolder}/src/app.js",
             "env": {
-                
+                "MONGO_USER":"manu",
+                "MONGO_PSW":"123",
+                "MONGO_DB":"cafeCartagena"
             }
         }
     ]
