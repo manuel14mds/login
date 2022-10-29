@@ -15,7 +15,9 @@
             "env": {
                 "MONGO_USER":"manu",
                 "MONGO_PSW":"123",
-                "MONGO_DB":"cafeCartagena"
+                "MONGO_DB":"cafeCartagena",
+                "JWT_SECRET":"SecreTpRuebAun0",
+                "JWT_COOKIE":"c0oKieseCret"
             }
         }
     ]

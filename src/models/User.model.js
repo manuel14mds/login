@@ -9,7 +9,7 @@ const usersSchema = mongoose.Schema({
     },
     last_name:{
         type:String,
-        required:false
+        default:''
     },
     role:{
         type:String,
